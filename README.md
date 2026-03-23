@@ -1,14 +1,20 @@
-# BlackRoad LangChain Studio
+# blackroad-langchain-studio
 
-Visual LangChain workflow builder for AI application development.
+Visual LangChain workflow builder
 
-## Features
-- **Visual Builder** - Drag-and-drop chain design
-- **Component Library** - Pre-built LangChain components
-- **Testing** - Interactive chain debugging
-- **Deployment** - One-click production deploy
-- **Monitoring** - Chain execution analytics
-- **Templates** - RAG, agents, chatbots
+## Organization
 
-## License
-Copyright (c) 2026 BlackRoad OS, Inc. Proprietary software.
+**BlackRoad-OS** — Core platform — websites, integrations, coordination
+
+## BlackRoad OS
+
+BlackRoad OS is a distributed AI operating system — 20 domains, 668 repositories, 1,000 AI agents, and sovereign infrastructure running on Raspberry Pis and Hailo-8 accelerators. No cloud dependency.
+
+- [blackroad.io](https://blackroad.io) — Main platform
+- [docs.blackroad.io](https://docs.blackroad.io) — Documentation
+- [GitHub](https://github.com/BlackRoad-OS) — This organization
+
+**Language:** HTML
+
+
+*© 2024-2026 BlackRoad OS, Inc. All Rights Reserved.*
